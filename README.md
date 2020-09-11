@@ -3,7 +3,6 @@
  AWS Lake Formation makes it easy for you to set up, secure, and manage your data lakes also  data discovery using the metadata search capabilities of Lake Formation in the console, and metadata search results restricted by column permissions.
 
 
-
 ![image](https://user-images.githubusercontent.com/48589838/77393674-8e335300-6dc3-11ea-9857-8c44eae11188.png)
 
 
